@@ -3,22 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha"
+    "test": "echo "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s2texperiments/sns-filter-policy.git"
+    "url": "git+https://github.com/s2texperiments/empty-lambda.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/s2texperiments/sns-filter-policy/issues"
+    "url": "https://github.com/s2texperiments/empty-lambda/issues"
   },
-  "homepage": "https://github.com/s2texperiments/sns-filter-policy#readme",
+  "homepage": "https://github.com/s2texperiments/empty-lambda#readme",
   "devDependencies": {
   },
   "dependencies": {
