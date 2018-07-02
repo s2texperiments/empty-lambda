@@ -1,0 +1,26 @@
+{
+  "name": "sns-filter-policy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s2texperiments/sns-filter-policy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s2texperiments/sns-filter-policy/issues"
+  },
+  "homepage": "https://github.com/s2texperiments/sns-filter-policy#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
